@@ -1,11 +1,11 @@
-### Hi there, I'm Bassam [website] 👋
+### Hi there, I'm Bassam 👋
 
 ## I'm a Front-End Web Developer!
 
-- 🔭 I’m currently working on improving my Developer skills!
-- 🌱 I’m currently learning React
-- 🥅 2020 Goals: Contribute to Open Source projects
-- ⚡ Fun fact: I love hiking and play guitar
+- 🔭 Currently working on improving my Developer skills!
+- 🌱 Currently learning React
+- 🥅 2020 Goals: Contributing to Open Source projects
+- ⚡ More about me: I love hiking, offroading and playing guitar
 
 ### Connect with me:
 
