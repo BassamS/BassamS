@@ -3,7 +3,6 @@
 ## I'm a Front-End Web Developer!
 
 - 🔭 Currently working on improving my Developer skills!
-- 🌱 Currently learning React
 - 🥅 2020 Goals: Contributing to Open Source projects
 - ⚡ More about me: I love hiking, Offroading, Sycling and playing guitar
 
