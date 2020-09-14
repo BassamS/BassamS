@@ -4,7 +4,7 @@
 
 - 🔭 Currently working on improving my Developer skills!
 - 🥅 2020 Goals: Contributing to Open Source projects
-- ⚡ More about me: I love hiking, Offroading, Sycling and playing guitar
+- ⚡ More about me: I love Hiking, Offroading, Cycling and Playing Guitar
 
 ### Connect with me:
 
