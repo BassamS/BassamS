@@ -3,7 +3,7 @@
 ## I'm a Front-End Web Developer!
 
 - 🔭 Currently working on improving my Developer skills!
-- 🥅 2020 Goals: Learning Back-End Development and Contributing to Open Source Projects.
+- 🥅 2021 Goals: Learning Back-End Development and Contributing to Open Source Projects.
 - ⚡ More about me: I love Hiking, Offroading, Cycling, and Playing Guitar.
 
 ### Connect with me:
