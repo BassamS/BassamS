@@ -3,7 +3,7 @@
 ## I'm a Programmer/ Front-End Web Developer!
 
 - 🔭 Currently learning Python!
-- 🥅 2022 Goals: Learning NLP and Contributing to Open Source Projects.
+- 🥅 2023 Goals: Data Science/ML and Contributing to Open Source Projects.
 - ⚡ More about me: I love Hiking, Offroading, Cycling, and Playing Guitar.
 
 ### Connect with me:
